@@ -6,3 +6,4 @@
 3. ssh key =>
 4. git init
 5. git add . ==> git commit -m "MESSAGE" ==> git push
+6. add to GitHub => copy form repository
